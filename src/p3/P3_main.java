@@ -18,7 +18,7 @@ public class P3_main {
 		expression_b(false, true);
 		expression_b(false, false);
 
-		// c) Das Ergbnis ist nur true, wenn x true ist, da wir x mit einem "und wahr"
+		// c) Das Ergbnis ist nur true, wenn x auch rue ist, da wir x mit einem "und wahr"
 		// verknüpft haben.
 		expression_c(true, true);
 		expression_c(true, false);
