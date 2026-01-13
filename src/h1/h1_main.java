@@ -3,8 +3,8 @@ package h1;
 public class h1_main {
 
 	public static void main(String[] args) {
-		int zone = 4;
-		double price = 46.9;
+		int zone = 6;
+		double price = 2.85;
 
 		price = 0.0;
 		switch (zone) {
@@ -23,7 +23,7 @@ public class h1_main {
 			break;
 		}
 
-		System.out.println("Fahrkartenpreis: " + price + "€");
+//		System.out.println("Fahrkartenpreis: " + price + "€");
 
 	}
 
